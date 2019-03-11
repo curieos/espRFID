@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: remote
+    upstream: drbobbob:master
+    mergeMethod: hardreset
