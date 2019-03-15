@@ -1,11 +1,5 @@
 .DS_Store
 
-# Platform.io files
-.pioenvs
-.piolibdeps
-.clang_complete
-.gcc-flags.json
-
 # Temporary files
 *.000
 *.bak
