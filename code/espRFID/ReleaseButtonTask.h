@@ -24,4 +24,4 @@ private:
   UpdateACLTask& updateTask;
 };
 
-#endif /* BUTTONPRINTER_H_ */
+#endif /* RELEASEBUTTONTASK_H_ */

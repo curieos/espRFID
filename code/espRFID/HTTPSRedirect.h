@@ -4,6 +4,9 @@
  *
  */
 
+#ifndef HTTPSREDIRECT_H_
+#define HTTPSREDIRECT_H_
+
 #include <WiFiClientSecure.h>
 
 class HTTPSRedirect : public WiFiClientSecure {
@@ -26,3 +29,4 @@ class HTTPSRedirect : public WiFiClientSecure {
   
 };
 
+#endif

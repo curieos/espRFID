@@ -23,4 +23,4 @@ private:
   int doorPin;
 };
 
-#endif /* BUTTONPRINTER_H_ */
+#endif /* DOORLATCHTASK_H_ */
