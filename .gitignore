@@ -1,3 +1,5 @@
+.DS_Store
+
 # Platform.io files
 .pioenvs
 .piolibdeps
