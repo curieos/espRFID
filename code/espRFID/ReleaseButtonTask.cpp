@@ -31,4 +31,3 @@ void ReleaseButtonTask::ButtonReleased()
   Serial.println("Release button released");
   updateTask.stopManualTimer();
 }
-

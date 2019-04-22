@@ -66,4 +66,3 @@ void RFIDReaderTask::validateCard()
     Serial.println("Card did not validate");
   }
 }
-

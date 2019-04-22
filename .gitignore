@@ -1,8 +1,4 @@
-# Platform.io files
-.pioenvs
-.piolibdeps
-.clang_complete
-.gcc-flags.json
+.DS_Store
 
 # Temporary files
 *.000
@@ -15,6 +11,8 @@ _autosave-*
 *-rescue.lib
 *-save.pro
 *-save.kicad_pcb
+rescue-backup
+sym-lib-table
 
 # Netlist files (exported from Eeschema)
 *.net
